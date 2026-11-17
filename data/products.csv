@@ -1,0 +1,41 @@
+product_id,institution_id,product_name,product_type
+9c831f88-d9f1-4b8b-96f8-15bcd065f78a,d3ff7399-9c58-4865-8fc7-921c105f2c15,Growth Equity Fund,Investment
+3b23b1c9-8ef9-4fb3-8082-6e9a1003c249,d3ff7399-9c58-4865-8fc7-921c105f2c15,Balanced Mutual Fund,Investment
+e491dd96-d673-429e-bdd9-20dead1eb4d8,d3ff7399-9c58-4865-8fc7-921c105f2c15,Fixed Income Fund,Investment
+e1f17e39-9989-4a72-a156-49f38a9f99ac,d3ff7399-9c58-4865-8fc7-921c105f2c15,Retirement Investment Plan,Investment
+ef02413c-2266-47e6-89dc-eaf1277efc7e,d3ff7399-9c58-4865-8fc7-921c105f2c15,Wealth Management Plan,Investment
+6996ee36-bec4-41c0-9eed-d2c309ed67f3,d3ff7399-9c58-4865-8fc7-921c105f2c15,Personal Loan,Loan
+971b53b4-fc1a-4388-8e23-c7edaee1574e,d3ff7399-9c58-4865-8fc7-921c105f2c15,Home Loan,Loan
+ce022bcb-185a-48e9-8453-c5f70a7059c7,d3ff7399-9c58-4865-8fc7-921c105f2c15,Business Loan,Loan
+a567571d-8e62-4b05-bfa5-11e4a32627c6,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Growth Equity Fund,Investment
+3812ea6e-4d55-49ec-8511-be334b7f34ce,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Balanced Mutual Fund,Investment
+94c781d1-1c5e-4482-967e-17333d3c1472,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Fixed Income Fund,Investment
+7a6c30f6-5b80-4d42-9d76-5aff6de1603b,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Retirement Investment Plan,Investment
+aaffe239-7704-42a5-bdd8-dc6c3efb9bd8,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Wealth Management Plan,Investment
+5efd59ee-2ca2-4a3c-932c-9303e579ee9a,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Personal Loan,Loan
+9e91e38f-67ae-4e2d-9a07-42d1a20931c8,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Home Loan,Loan
+51ffc5a4-dadb-4f92-8e9f-e230e34d5f98,9c3d4c54-4ec9-461d-b16e-147756a80d0a,Business Loan,Loan
+ecb61e8c-ebac-4bec-8fc1-0027a56c38d5,40059625-4f76-401a-9ed9-ac7fce794cfd,Growth Equity Fund,Investment
+5f37ba85-4f06-405d-b7ae-71f6ec6a2d00,40059625-4f76-401a-9ed9-ac7fce794cfd,Balanced Mutual Fund,Investment
+bef5c06c-7341-499d-97e9-1e37ed19271e,40059625-4f76-401a-9ed9-ac7fce794cfd,Fixed Income Fund,Investment
+64efe074-ce95-4114-a820-5a3ffc88c771,40059625-4f76-401a-9ed9-ac7fce794cfd,Retirement Investment Plan,Investment
+c7e801a4-7ee2-4cfa-ac99-fd5c2eef4605,40059625-4f76-401a-9ed9-ac7fce794cfd,Wealth Management Plan,Investment
+ee2fbcda-7d93-4e7b-8be4-ed6779685713,40059625-4f76-401a-9ed9-ac7fce794cfd,Personal Loan,Loan
+3fb844fb-5298-4377-830c-21b84ed0eabe,40059625-4f76-401a-9ed9-ac7fce794cfd,Home Loan,Loan
+50c02ac9-b697-4a44-b8a3-9d44caf67128,40059625-4f76-401a-9ed9-ac7fce794cfd,Business Loan,Loan
+4034aaef-f9ae-4bb1-a4a9-0019bbee5e10,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Growth Equity Fund,Investment
+a865e834-bce4-42e3-962b-caf6cfa65d59,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Balanced Mutual Fund,Investment
+02dbc699-f256-4507-af98-d728366a3e8c,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Fixed Income Fund,Investment
+06118aa6-1c14-494a-8184-a74717b9ad10,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Retirement Investment Plan,Investment
+5476521b-5d6c-4386-bd3e-b4cc58db6dac,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Wealth Management Plan,Investment
+80e0264c-6d84-4d53-8e39-695ab93bb1ed,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Personal Loan,Loan
+9a803d2a-11bb-4e78-b547-975069d95083,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Home Loan,Loan
+bb02faf8-3651-4046-8542-4f934af02f92,2c042b39-7689-46b5-b30e-7cbb3734dd6e,Business Loan,Loan
+515bfe78-d870-4aed-82af-68b55f22e725,4db050a5-c609-4190-a544-0cbcd94b7332,Growth Equity Fund,Investment
+b811176d-0298-4ff0-ae61-e7994e5d0a31,4db050a5-c609-4190-a544-0cbcd94b7332,Balanced Mutual Fund,Investment
+306f5d5f-f098-47fe-802a-e486266433bd,4db050a5-c609-4190-a544-0cbcd94b7332,Fixed Income Fund,Investment
+cba554c1-0d8b-424d-92de-031335eaaa37,4db050a5-c609-4190-a544-0cbcd94b7332,Retirement Investment Plan,Investment
+a2e74a77-46ab-45b8-a853-a4a465142cb6,4db050a5-c609-4190-a544-0cbcd94b7332,Wealth Management Plan,Investment
+2a885e11-2cfc-4b82-ad70-7a60ea9fc65d,4db050a5-c609-4190-a544-0cbcd94b7332,Personal Loan,Loan
+edfd893f-1bba-403c-bd0e-c3bad2d4b6bf,4db050a5-c609-4190-a544-0cbcd94b7332,Home Loan,Loan
+3a0e988c-81bf-41e6-994f-f908a1882b43,4db050a5-c609-4190-a544-0cbcd94b7332,Business Loan,Loan
